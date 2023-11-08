@@ -7,4 +7,4 @@ A simple Scheme interpreter including various computational operations and condi
 - String operations
 - Conditional statements
 - Functions define
-- etc..
+- etc ..
