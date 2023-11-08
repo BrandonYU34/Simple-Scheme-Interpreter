@@ -1,5 +1,5 @@
 # Simple-Scheme-Interpreter
-A simple Scheme interpreter including various computational operations and conditional statements. 
+A simple Scheme interpreter including various operations and conditional statements. 
 
 ## Supported Features
 - Various variable types
